@@ -304,25 +304,3 @@ Este es un proyecto educativo. Las contribuciones son bienvenidas:
 ## 📝 Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
-
-## 👨‍💻 Autor
-
-**Tu Nombre**
-- GitHub: [@tuusuario](https://github.com/tuusuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tuperfil)
-
-## 🙏 Agradecimientos
-
-- Comunidad de Scapy por la excelente librería
-- Fyodor y el equipo de Nmap
-- Comunidad de seguridad informática
-
----
-
-## ⭐ Si este proyecto te fue útil
-
-¡Dale una estrella! ⭐ Ayuda a otros a encontrar este recurso educativo.
-
----
-
-**Recuerda:** Con gran poder viene gran responsabilidad. Usa estas herramientas de manera ética y legal.
