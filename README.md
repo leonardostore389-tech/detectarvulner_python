@@ -13,10 +13,8 @@ Sistema completo de escaneo de vulnerabilidades de red desarrollado en Python pa
 - ✅ **PERMITIDO:** Escanear tu propia red doméstica o de laboratorio
 - ✅ **PERMITIDO:** Usar en máquinas virtuales de tu propiedad
 - ✅ **PERMITIDO:** Practicar en plataformas autorizadas (HackTheBox, TryHackMe)
-- ❌ **PROHIBIDO:** Escanear redes de terceros sin autorización escrita
-- ❌ **ILEGAL:** Acceder a sistemas sin autorización
 
-**El uso indebido puede resultar en consecuencias legales graves.**
+
 
 ## 📋 Características
 
