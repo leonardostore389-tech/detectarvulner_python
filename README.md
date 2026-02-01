@@ -7,9 +7,7 @@ Sistema completo de escaneo de vulnerabilidades de red desarrollado en Python pa
 ![Status](https://img.shields.io/badge/status-educational-yellow)
 
 ## ⚠️ ADVERTENCIA 
-<p align="center">
-  <img src="/redvuln.png" width="400">
-</p>
+![RedVuln](./redvuln.PNG)
 
 
 **IMPORTANTE:** Este proyecto es SOLO para propósitos educativos y de hacking ético.
