@@ -6,7 +6,11 @@ Sistema completo de escaneo de vulnerabilidades de red desarrollado en Python pa
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-educational-yellow)
 
-## ⚠️ ADVERTENCIA LEGAL
+## ⚠️ ADVERTENCIA 
+<p align="center">
+  <img src="/redvuln.png" width="400">
+</p>
+
 
 **IMPORTANTE:** Este proyecto es SOLO para propósitos educativos y de hacking ético.
 
